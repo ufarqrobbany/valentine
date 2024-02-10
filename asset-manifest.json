@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valentine/static/css/main.8057abbe.css",
-    "main.js": "/valentine/static/js/main.2b5fbed0.js",
+    "main.js": "/valentine/static/js/main.9222b855.js",
     "static/js/787.8b776fe3.chunk.js": "/valentine/static/js/787.8b776fe3.chunk.js",
     "static/media/cat.gif": "/valentine/static/media/cat.cbe50efc5257e83a4f18.gif",
     "static/media/Ubuntu-Light.ttf": "/valentine/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
@@ -17,11 +17,11 @@
     "static/media/heart.png": "/valentine/static/media/heart.55edf423cad437f475c0.png",
     "index.html": "/valentine/index.html",
     "main.8057abbe.css.map": "/valentine/static/css/main.8057abbe.css.map",
-    "main.2b5fbed0.js.map": "/valentine/static/js/main.2b5fbed0.js.map",
+    "main.9222b855.js.map": "/valentine/static/js/main.9222b855.js.map",
     "787.8b776fe3.chunk.js.map": "/valentine/static/js/787.8b776fe3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8057abbe.css",
-    "static/js/main.2b5fbed0.js"
+    "static/js/main.9222b855.js"
   ]
 }
